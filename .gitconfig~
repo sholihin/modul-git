@@ -1,0 +1,10 @@
+[user]
+	name = Mohamad Sholihin
+	email = linux_mint@yahoo.com
+[color]
+	ui = true
+[sendemail]
+	smtpserver = smtp.gmail.com
+	smtpserverport = 587
+	smtpencryption = tls
+	smtpuser = iqin.nux@gmail.com
